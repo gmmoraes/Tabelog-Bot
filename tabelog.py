@@ -24,7 +24,6 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 start = time.time()
 
-print('a') 
 
 def multiProcess(processors, array, method,optional_arg=""):
         threads = list()
